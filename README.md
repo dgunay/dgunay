@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Devin. Some interesting facts about me:
+I'm Devin. I do software engineering. Have worked at:
 
-- Traumatic amounts of Perl experience
-- Physically hurt myself with code I've written (kids, don't do audio programming with headphones on unless you know what you're doing)
-- I move between Rust and Go depending on what I need and haven't written a single blog post about it
-- Recovered PHP evangelist
+* [Feedonomics 🛒](https://feedonomics.com/)
+* [The Aerospace Corporation 🚀](https://aerospace.org/)
+* [Maestro Interactive 📺](https://www.maestro.io/)
+* [Otto 🚙](https://www.otto.xyz/)
