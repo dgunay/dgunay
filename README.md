@@ -5,4 +5,4 @@ I'm Devin. I do software engineering. Have worked at:
 * [Feedonomics 🛒](https://feedonomics.com/)
 * [The Aerospace Corporation 🚀](https://aerospace.org/)
 * [Maestro Interactive 📺](https://www.maestro.io/)
-* [Otto 🚙](https://www.otto.xyz/)
+* [Yendo 🚙](https://www.yendo.com/)
