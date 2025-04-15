@@ -12,3 +12,4 @@ Here are some articles, works, and role models that I feel strongly embody my va
 
 * [Dan Luu - Culture Matters](https://danluu.com/culture/)
 * There's not exactly one work I can point, but perhaps [The Rust Programming Language](https://doc.rust-lang.org/book/ch00-00-introduction.html)
+* [Julia Evans](https://jvns.ca/)
