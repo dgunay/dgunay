@@ -11,5 +11,5 @@ I currently work at [Yendo 💳🚙](https://www.yendo.com/). Have worked at:
 Here are some articles, works, and role models that I feel strongly embody my values as a programmer:
 
 * [Dan Luu - Culture Matters](https://danluu.com/culture/)
-* There's not exactly one work I can point, but perhaps [The Rust Programming Language](https://doc.rust-lang.org/book/ch00-00-introduction.html)
+* [The Rust Programming Language](https://doc.rust-lang.org/book/ch00-00-introduction.html)
 * [Julia Evans](https://jvns.ca/)
